@@ -36,7 +36,7 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 
 ### 📫 Connect with me:
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/Tohidul0)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/TohidulEtripzone)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tohidul-alam-361115265/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009415096366)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?&style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Akilakil)
@@ -46,7 +46,7 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 
 ### 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tohidul0&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TohidulEtripzone&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -54,11 +54,11 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohidul0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TohidulEtripzone&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tohidul0&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TohidulEtripzone&show_icons=true&theme=vision-friendly-dark&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tohidul0&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TohidulEtripzone&theme=dark)
   
 </div>
 
