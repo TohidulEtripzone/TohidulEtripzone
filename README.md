@@ -34,6 +34,41 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 
 ---
 
+
+### 🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TohidulEtripzone&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Statistics
+
+Here’s a snapshot of my coding activity and language usage on GitHub:
+
+<p align="center">
+  <a href="https://github.com/TohidulEtripzone">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TohidulEtripzone&theme=dark" alt="GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/TohidulEtripzone">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TohidulEtripzone&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/TohidulEtripzone">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TohidulEtripzone&theme=dark" alt="GitHub Contribution"/>
+  </a>
+</p>
+
+## Current Status
+
+I'm currently focused on improving my consistency in coding and contributing to open-source projects. Here's my GitHub streak:
+
+<p align="center">
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=TohidulEtripzone&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000&background=45%2C070076%2C000000" alt="TohidulEtripzone" />
+</p>
+  
+</div>
+
 ### 📫 Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/TohidulEtripzone)
@@ -43,27 +78,3 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Tohidul45/)
 
 ---
-
-### 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TohidulEtripzone&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TohidulEtripzone&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TohidulEtripzone&show_icons=true&theme=vision-friendly-dark&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TohidulEtripzone&theme=dark)
-  
-</div>
-
----
-
-<a href='https://docs.github.com/en/developers'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a>
