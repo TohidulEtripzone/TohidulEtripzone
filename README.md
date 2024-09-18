@@ -12,14 +12,14 @@
 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align=center>
 
 
-### A passionate web developer and coding enthusiast with a degree in Computer Science.
+<p align=justify>
+I am a dedicated software engineer specializing in the MERN stack (MongoDB, Express, React, Node.js), with expertise in API integration using NestJS and database management with MySQL. I excel in teamwork and thrive in collaborative environments, always eager to learn and grow quickly. My problem-solving skills are honed through competitive programming, allowing me to tackle real-world challenges efficiently. I’m passionate about delivering high-quality solutions and continuously improving my craft.
 
-I'm a CSE graduate with a passion for **web development** and **competitive programming**. I love to learn and explore new technologies that can solve real-world problems.
+Currently, I'm focusing on OTA (Online Travel Agency), Sabre, Zenith, and travel API integration, alongside my ongoing work with the MERN stack and Node.js, expanding my expertise in the travel industry and developing seamless solutions for booking and management systems.
+</p>
 
----
 
 ### 🌱 Currently Learning
 - **NestJS** & **TypeScript**
@@ -52,7 +52,11 @@ I'm a CSE graduate with a passion for **web development** and **competitive prog
 
 ### 🏆 GitHub Trophies:
 
+<div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=TohidulEtripzone&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -86,10 +90,14 @@ I'm currently focused on improving my consistency in coding and contributing to 
 
 ### 📫 Connect with me:
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/TohidulEtripzone)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tohidul-alam-361115265/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009415096366)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?&style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Akilakil)
 [![Leetcode](https://img.shields.io/badge/LeetCode-%23000000.svg?&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Tohidul45/)
+
+</div>
 
 ---
