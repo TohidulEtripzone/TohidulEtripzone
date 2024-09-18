@@ -1,4 +1,28 @@
-# Hi there 👋, I'm Mohammad Tohidul Alam
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!;I+am+Tohidul+Alam;A+Software+Engineer&center=true&width=500&height=45" alt="TohidulEtripzone">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TohidulEtripzone.svg?style=social&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=TohidulEtripzone&style=plastic" />
+  
+</p>
+<br/>
+
+
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align=center>
+
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TohidulEtripzone&theme=tokyonight_duo&hide_border=true" alt="TohidulEtripzone" />
+	<br/>
+  	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TohidulEtripzone&theme=github_dark&hide_border=true" />
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
 
 ### A passionate web developer and coding enthusiast with a degree in Computer Science.
 
