@@ -15,15 +15,6 @@
 <p align=center>
 
 
-## 🔥 Streak Stats
-
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TohidulEtripzone&theme=tokyonight_duo&hide_border=true" alt="TohidulEtripzone" />
-	<br/>
-  	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TohidulEtripzone&theme=github_dark&hide_border=true" />
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
-
 ### A passionate web developer and coding enthusiast with a degree in Computer Science.
 
 I'm a CSE graduate with a passion for **web development** and **competitive programming**. I love to learn and explore new technologies that can solve real-world problems.
